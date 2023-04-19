@@ -14,11 +14,7 @@ Tag.init(
       primaryKey:true, 
     },
     tag_name: {
-      type: DataTypes.INTEGER,
-      references:{
-        model: 'product',
-        key: 'id',
-      },
+      type: DataTypes.STRING
      },
   },
   {
