@@ -5,8 +5,8 @@
 1. [Description](#description)  
 2. [Installation](#installation)  
 3. [Usage](#usage)    
-7. [Questions](#questions)   
-9. [Links](#links)  
+4. [Questions](#questions)   
+5. [Links](#links)  
 
 ## Description  
 Using a database created with MySQL, api routes were created to be able to view, add to, edit, and delete data components.  
