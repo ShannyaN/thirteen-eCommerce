@@ -44,7 +44,6 @@ router.put('/:id', (req, res) => {
     }
   )
     .then((updatedTag) => {
-      // Sends the updated book as a json response
       res.json(updatedTag);
     })
     .catch((err) => res.json(err));
