@@ -20,9 +20,9 @@ If someone had to reprice an item in a database with inventory, they can update 
 ## Questions  
 Take a closer look at this repo and my other work by visiting my GitHub with the link below, or contact me directly by email.    
 
-GitHub: https://github.com/ShannyaN 
+GitHub: https://github.com/ShannyaN   
 Email: niveyro101@gmail.com 
   
 ## Links   
-Repository: https://github.com/ShannyaN/thirteen-eCommerce   
+Repository: https://github.com/ShannyaN/thirteen-eCommerce    
 Walkthrough Video: https://drive.google.com/file/d/14RAy_GNUT0izc2m0FjjOK8odjHoSnZbt/view
