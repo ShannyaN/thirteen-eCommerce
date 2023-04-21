@@ -7,7 +7,8 @@ const { Category, Product } = require('../../models');
 router.get('/', async(req, res) => {
   try{
     const categoryData = await Category.findAll({
-      include: [{model:Category}]
+      include: [{model:Product}],
+      // exclude: ['category_id'],
     });
     res.status(200).json(categoryData);
   } catch (err) {
@@ -25,6 +26,7 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new category
+
 });
 
 router.put('/:id', (req, res) => {
